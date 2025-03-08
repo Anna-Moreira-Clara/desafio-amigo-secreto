@@ -12,7 +12,7 @@
 <li>JavaScript para a lógica do sorteio</li>
 
 <h2>📷 Demonstração</h2>
-<img src="
+<img src="assets/tela jogo amigo secreto.png">
 <h2>Deploy do Projeto</h2>
 <p>Clique no link abaixo para testar o jogo do amigo secreto</p>
 https://desafio-amigo-secreto-omega.vercel.app/
