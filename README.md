@@ -12,9 +12,10 @@
 <li>JavaScript para a lógica do sorteio</li>
 
 <h2>📷 Demonstração</h2>
-![image](https://github.com/user-attachments/assets/35609a2b-430d-47ce-99ce-2dc10d2ae56c)
-
-
+<img src="
+<h2>Deploy do Projeto</h2>
+<p>Clique no link abaixo para testar o jogo do amigo secreto</p>
+https://desafio-amigo-secreto-omega.vercel.app/
 <h2>💡 Como executar</h2>
 <h3>Clone este repositório:</h3>
 
