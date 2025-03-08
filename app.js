@@ -28,8 +28,16 @@ function sortearAmigo() {
     }
     let sorteado = amigos[Math.floor(Math.random() * amigos.length)];
     let resultado = document.getElementById('resultado');
-    resultado.innerHTML = `${sorteado} é o amigo secreto`;
+    resultado.innerHTML = `O amigo sorteado foi:  ${sorteado} `;
 
+    limparLista.innerHTML = '';
 
+}
+function reiniciarJogo(){
+    let listaAmigos = document.getElementById('listarAmigos');
+    listaAmigos.innerHTML = '';
+    let resultado = document.getElementById('resultado');
+    resultado.innerHTML = '';
+    amigos = [];
 
 }
