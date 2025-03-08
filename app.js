@@ -4,7 +4,7 @@ function adicionarAmigo() {
     let inputAmigo = document.getElementById('amigo');//pega o campo de texto
     let nomeAmigo = inputAmigo.value;//pega o valor do campo
     if (!nomeAmigo) {//se o campo estiver vazio
-        alert('Digite o nome do amigo');
+        alert('Nenhum nome foi informado');
         return;
     }
     amigos.push(nomeAmigo);
