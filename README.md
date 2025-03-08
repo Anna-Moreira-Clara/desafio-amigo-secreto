@@ -23,6 +23,6 @@ https://desafio-amigo-secreto-omega.vercel.app/
 
 Abra o arquivo index.html no navegador.
 <h2>📌 Sobre o desafio</h2>
-<p>Este projeto foi desenvolvido como parte do curso da Alura, onde coloquei em prática meus conhecimentos em JavaScript e aplicando lógica para o sorteio.</p>
+<p>Este projeto foi desenvolvido como parte do curso da Alura, onde coloquei em prática meus conhecimentos em JavaScript.</p>
 
 <p>📌 Feito com 💙 por Anna Clara Julio Moreira</p>
